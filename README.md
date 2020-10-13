@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to Happy 👋</h1>
 <p>
   <a href="#" target="_blank">
+    <img alt="Happy" src="" />
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
